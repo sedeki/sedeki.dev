@@ -20,7 +20,7 @@ The smaller, solid circle is the unit sphere, and the line under it is the plane
 ![](/assets/equal-area.png)
 
 The distance from the origin ($$O$$ in the picture) to $$P$$, when both are projected onto
-the same z-plane, is $$a = \sqrt{P_x^2 + P_y^2} = 1 - P_z^2$$.
+the same z-plane, is $$a = \sqrt{P_x^2 + P_y^2} = \sqrt{1 - P_z^2}$$.
 This distance is fittingly represented by $$a$$ above.
 
 The distance from $$S$$ to $$P$$, i.e. the radius of the larger dashed circle in
